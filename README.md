@@ -6,5 +6,7 @@ Here is my readme for this repo
 Read and print info from a spreadsheet
 
 # Usage
-input: a spreadsheet that a user provides
-output: print the columns in the spreadsheet, and print the mean temperature
+
+- input: a spreadsheet that a user provides
+
+- output: print the columns in the spreadsheet, and print the mean temperature
